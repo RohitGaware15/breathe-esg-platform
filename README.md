@@ -2,7 +2,7 @@
 
 Django REST + React prototype for ingesting, normalizing, and reviewing ESG emissions data from three source types.
 
-## Live Demo
+## Login Details
 Login: admin 
 Password: admin123
 
