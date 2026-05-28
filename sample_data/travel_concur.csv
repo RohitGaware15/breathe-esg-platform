@@ -1,0 +1,27 @@
+expense_type,travel_date,employee,department,origin,destination,travel_class,nights,distance_km,amount,currency
+AIRFR,2024-01-08,Priya Sharma,Engineering,BOM,DEL,ECONOMY,,,8500,INR
+AIRFR,2024-01-08,Priya Sharma,Engineering,DEL,BOM,ECONOMY,,,8500,INR
+HOTEL,2024-01-08,Priya Sharma,Engineering,,,,,2,6200,INR
+AIRFR,2024-01-15,Rahul Mehta,Sales,BOM,LHR,BUSINESS,,,145000,INR
+AIRFR,2024-01-20,Rahul Mehta,Sales,LHR,BOM,BUSINESS,,,145000,INR
+HOTEL,2024-01-15,Rahul Mehta,Sales,,,,,5,62000,INR
+TAXI,2024-01-15,Rahul Mehta,Sales,,,,,,2400,INR
+AIRFR,2024-01-22,Sneha Patel,Finance,BLR,HYD,ECONOMY,,,4200,INR
+AIRFR,2024-01-22,Sneha Patel,Finance,HYD,BLR,ECONOMY,,,4200,INR
+CARRT,2024-01-22,Sneha Patel,Finance,,,,,180,3500,INR
+AIRFR,2024-01-28,Arjun Nair,Product,DEL,DXB,ECONOMY,,,22000,INR
+AIRFR,2024-02-01,Arjun Nair,Product,DXB,DEL,ECONOMY,,,22000,INR
+HOTEL,2024-01-28,Arjun Nair,Product,,,,,4,48000,INR
+AIRFR,2024-02-05,Kavita Rao,HR,BOM,SIN,BUSINESS,,,95000,INR
+HOTEL,2024-02-05,Kavita Rao,HR,,,,,3,72000,INR
+AIRFR,2024-02-08,Kavita Rao,HR,SIN,BOM,BUSINESS,,,95000,INR
+TAXI,2024-02-05,Kavita Rao,HR,,,,,,3800,INR
+AIRFR,2024-02-10,Vikram Singh,Engineering,DEL,JFK,FIRST,,,320000,INR
+HOTEL,2024-02-10,Vikram Singh,Engineering,,,,,7,210000,INR
+AIRFR,2024-02-17,Vikram Singh,Engineering,JFK,DEL,FIRST,,,320000,INR
+AIRFR,2024-02-12,Meera Das,Marketing,BOM,BLR,ECONOMY,,,3800,INR
+AIRFR,2024-02-13,Meera Das,Marketing,BLR,BOM,ECONOMY,,,3800,INR
+CARRT,2024-02-12,Meera Das,Marketing,,,,,95,1800,INR
+AIRFR,2024-02-18,Anand Kumar,Operations,CCU,DEL,ECONOMY,,,5500,INR
+HOTEL,2024-02-18,Anand Kumar,Operations,,,,,1,4500,INR
+AIRFR,2024-02-19,Anand Kumar,Operations,DEL,CCU,ECONOMY,,,5500,INR

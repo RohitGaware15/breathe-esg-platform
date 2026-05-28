@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-950 text-gray-100 font-sans;
+    font-family: 'Inter', sans-serif;
+  }
+
+  code, .mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@layer components {
+  .badge-scope1 { @apply bg-orange-900 text-orange-200 text-xs px-2 py-0.5 rounded font-mono; }
+  .badge-scope2 { @apply bg-blue-900 text-blue-200 text-xs px-2 py-0.5 rounded font-mono; }
+  .badge-scope3 { @apply bg-purple-900 text-purple-200 text-xs px-2 py-0.5 rounded font-mono; }
+  .badge-pending { @apply bg-yellow-900 text-yellow-200 text-xs px-2 py-0.5 rounded; }
+  .badge-approved { @apply bg-green-900 text-green-200 text-xs px-2 py-0.5 rounded; }
+  .badge-flagged { @apply bg-red-900 text-red-200 text-xs px-2 py-0.5 rounded; }
+  .badge-rejected { @apply bg-gray-700 text-gray-300 text-xs px-2 py-0.5 rounded; }
+}
