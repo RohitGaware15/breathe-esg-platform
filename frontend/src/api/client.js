@@ -16,7 +16,7 @@ api.interceptors.request.use((config) => {
 
 // Auth
 export const login = (username, password) =>
-  api.post('/auth/login/', { username, password })
+  api.post('/api/auth/login/', { username, password })
 
 export const logout = () => api.post('/auth/logout/')
 
